@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Malik!
-🎓 Sophomore at Bennington College, studying Computer Science & Mathematics
+🎓 Senior at Bennington College, studying Computer Science & Mathematics
 
 🔭 Aspiring bjhb
 
