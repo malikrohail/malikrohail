@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Malik!
 🎓 Sophomore at Bennington College, studying Computer Science & Mathematics
-🔭 Aspiring 
+🔭 Aspiring bjhb
+
 
 <!--
 **malikrohail/malikrohail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
