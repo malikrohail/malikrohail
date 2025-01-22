@@ -6,6 +6,7 @@
 
 📫 How to Reach Me:
 Email: maliksalim@bennington.edu
+
 LinkedIn: linkedin.com/in/malikrohail
 
 
