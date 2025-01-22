@@ -1,7 +1,12 @@
 ## 👋 Hi, I'm Malik!
 🎓 Senior at Bennington College, studying Computer Science & Mathematics
 
-🔭 Aspiring bjhb
+🔭 Aspiring 
+
+
+📫 How to Reach Me:
+Email: maliksalim@bennington.edu
+LinkedIn: linkedin.com/in/malikrohail
 
 
 <!--
