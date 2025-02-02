@@ -2,7 +2,7 @@
 [Optional: Brief tagline, e.g., "Data Science & AI Enthusiast | Building Solutions for Real-World Problems"]
 
 ## 🎓 Education & Goals
-- **Sophomore at [University Name]** studying Computer Science  
+- **Senior at [Bennington College]** studying Computer Science  
 - **Focus:** Data Science, Machine Learning, and [Your Specialization]  
 - **Currently Seeking:** [Internships/Research Opportunities] in AI/ML  
 
