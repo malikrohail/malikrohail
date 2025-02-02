@@ -1,5 +1,4 @@
 # Hi, I'm Malik 👋
-[Optional: Brief tagline, e.g., "Data Science & AI Enthusiast | Building Solutions for Real-World Problems"]
 
 ## 🎓 Education & Goals
 - **Senior at Bennington College** studying Computer Science and Mathematics.  
@@ -18,11 +17,9 @@
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 **Data Science & ML:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -41,6 +38,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F61?style=flat&logo=rest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 
 **Cloud & DevOps:**  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
@@ -58,9 +57,6 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
-**Other Tools:**  
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ## 🚀 Projects
 ### 1. [Project Name] - [Short Description]
@@ -68,15 +64,10 @@
 - **Key Achievement:** [1-sentence result]
 - **Link:** [Repository]
 
-### 2. [Project Name] - [Short Description]
-- **Tech:** [Tech Stack]
-- **Key Achievement:** [1-sentence result]
-- **Link:** [Repository]
-
 
 ## 📬 Let's Connect!
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](...)
-- 📧 Email: [youremail@domain.com](mailto:...)
+- 📧 Email: [maliksalim@bennington.edu](mailto:...)
 
 ## 🎯 Currently...
 - Learning: [New Skill/Tool]
