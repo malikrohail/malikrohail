@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Malik 👋
 [Optional: Brief tagline, e.g., "Data Science & AI Enthusiast | Building Solutions for Real-World Problems"]
 
 ## 🎓 Education & Goals
