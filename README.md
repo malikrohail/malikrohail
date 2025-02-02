@@ -2,9 +2,9 @@
 [Optional: Brief tagline, e.g., "Data Science & AI Enthusiast | Building Solutions for Real-World Problems"]
 
 ## 🎓 Education & Goals
-- **Senior at [Bennington College]** studying Computer Science  
-- **Focus:** Data Science, Machine Learning, and [Your Specialization]  
-- **Currently Seeking:** [Internships/Research Opportunities] in AI/ML  
+- **Senior at Bennington College** studying Computer Science and Mathematics.  
+- **Focus:** Machine Learning and Software Engineering
+- **Actively Seeking:** Full-time roles in **Machine Learning Engineering** or **Software Development** (starting June 2025)  
 
 ## 🔥 Featured Project
 ### [Project Name] - [Short Description]
@@ -38,14 +38,10 @@
 - **Key Achievement:** [1-sentence result]
 - **Link:** [Repository]
 
-## 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
 
 ## 📬 Let's Connect!
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](...)
 - 📧 Email: [youremail@domain.com](mailto:...)
-- 🐦 Twitter: [@yourhandle](...) [Optional]
 
 ## 🎯 Currently...
 - Learning: [New Skill/Tool]
