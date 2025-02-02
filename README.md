@@ -66,7 +66,7 @@
 
 
 ## 📬 Let's Connect!
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](...)
+- 💼 LinkedIn: [linkedin.com/in/malikrohail](...)
 - 📧 Email: [maliksalim@bennington.edu](mailto:...)
 
 ## 🎯 Currently...
