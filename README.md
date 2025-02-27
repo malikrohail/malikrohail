@@ -61,7 +61,6 @@
 ## 🚀 Projects
 ### 1. [Project Name] - [Short Description]
 - **Tech:** [Tech Stack]
-- **Key Achievement:** [1-sentence result]
 - **Link:** [Repository]
 
 
@@ -70,8 +69,5 @@
 - 📧 Email: [maliksalim@bennington.edu](mailto:...)
 
 ## 🎯 Currently...
-- Learning: [New Skill/Tool]
-- Building: [Project Idea]
-- Reading: [Book/Paper Title] [Optional]
 
 🌟 **Fun Fact:** [Personal tidbit, e.g., "I drink more matcha than code lines I write daily!"]
