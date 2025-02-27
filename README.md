@@ -6,12 +6,6 @@
 - **Actively Seeking:** Full-time roles in **Machine Learning Engineering** or **Software Development** (starting June 2025)  
 
 ## 🔥 Featured Project
-### [Project Name] - [Short Description]
-- **Problem:** [1-sentence problem statement]
-- **Solution:** Built [solution] using [key technologies]
-- **Tech Stack:** Python, [Library 1], [Library 2], [Tool]
-- **Results:** Achieved [X]% accuracy/improvement, [Quantifiable Impact]
-- **Links:** [Code] | [Demo]
 
 ## 🛠️ Tech Stack
 
