@@ -4,8 +4,6 @@
 - **Senior at Bennington College** studying Computer Science and Mathematics.  
 - **Focus:** Machine Learning and Software Engineering
 - **Actively Seeking:** Full-time roles in **Machine Learning Engineering** or **Software Development** (starting June 2025)
-- 3rd Place in Kaggle Hackathon on Equitable AI for Derma held by [MIT](https://www.kaggle.com/competitions/bttai-ajl-2025/leaderboard)
-
 ## 🔥 Featured Project
 
 ## 🛠️ Tech Stack
@@ -53,10 +51,7 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 
-## 🚀 Projects
-### 1. [Project Name] - [Short Description]
-- **Tech:** [Tech Stack]
-- **Link:** [Repository]
+## 🚀 Projects (coming)
 
 
 ## 📬 Let's Connect!
@@ -64,5 +59,7 @@
 - 📧 Email: [maliksalim@bennington.edu](mailto:...)
 
 ## 🎯 Currently...
+- 3rd Place in Kaggle Hackathon on Equitable AI for Derma held by [MIT](https://www.kaggle.com/competitions/bttai-ajl-2025/leaderboard)
+
 
 🌟 **Fun Fact:** [Personal tidbit, e.g., "I drink more matcha than code lines I write daily!"]
