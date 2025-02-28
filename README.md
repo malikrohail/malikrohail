@@ -25,6 +25,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 **Software Engineering:**  
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat&logo=websocket&logoColor=white) 
+![Streaming API](https://img.shields.io/badge/Streaming_API-FF4500?style=flat&logo=livewire&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
