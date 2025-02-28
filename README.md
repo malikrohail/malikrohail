@@ -62,4 +62,4 @@
 - 3rd Place in Kaggle Hackathon on Equitable AI for Derma held by [MIT](https://www.kaggle.com/competitions/bttai-ajl-2025/leaderboard)
 
 
-🌟 **Fun Fact:** [Personal tidbit, e.g., "I drink more matcha than code lines I write daily!"]
+🌟 **Fun Fact:** I drink more matcha than code lines I write daily!
