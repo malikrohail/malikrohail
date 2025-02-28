@@ -4,7 +4,7 @@
 - **Senior at Bennington College** studying Computer Science and Mathematics.  
 - **Focus:** Machine Learning and Software Engineering
 - **Actively Seeking:** Full-time roles in **Machine Learning Engineering** or **Software Development** (starting June 2025)
-- 3rd Place in Kaggle Hackathon on Equitable AI for Derma held by [MIT](https://www.kaggle.com/competitions/bttai-ajl-2025/team)
+- 3rd Place in Kaggle Hackathon on Equitable AI for Derma held by [MIT](https://www.kaggle.com/competitions/bttai-ajl-2025/leaderboard)
 
 ## 🔥 Featured Project
 
