@@ -60,7 +60,7 @@
 - 📧 Email: [maliksalim@bennington.edu](mailto:...)
 
 ## 🎯 Currently...
-- 3rd Place in Kaggle Hackathon on Equitable AI for Derma held by [MIT](https://www.kaggle.com/competitions/bttai-ajl-2025/leaderboard)
+- 2nd Place in Kaggle Hackathon on Equitable AI for Derma held by [MIT](https://www.kaggle.com/competitions/bttai-ajl-2025/leaderboard)
 
 
-🌟 **Fun Fact:** I drink more matcha than code lines I write daily!
+🌟 **Fun Fact:** I drink more redbull than code lines I write daily!
