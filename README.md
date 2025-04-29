@@ -52,15 +52,13 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 
-## 🚀 Projects (coming)
+## 🚀 Projects
 
 
 ## 📬 Let's Connect!
 - 💼 LinkedIn: [linkedin.com/in/malikrohail](...linkedin.com/in/malikrohail)
 - 📧 Email: [maliksalim@bennington.edu](mailto:...)
 
-## 🎯 Currently...
+## 🎯 Hackathon(s)
 - 2nd Place in Kaggle Hackathon on Equitable AI for Derma held by [MIT](https://www.kaggle.com/competitions/bttai-ajl-2025/leaderboard)
 
-
-🌟 **Fun Fact:** I drink more redbull than code lines I write daily!
