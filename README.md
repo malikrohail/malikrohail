@@ -3,7 +3,6 @@
 ## 🎓 Education & Goals
 - **Senior at Bennington College** studying Computer Science and Mathematics.  
 - **Focus:** Machine Learning and Software Engineering
-## 🔥 Featured Project
 
 ## 🛠️ Tech Stack
 
