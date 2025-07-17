@@ -52,7 +52,7 @@
 
 ## 🚀 Projects
 ### 🗣️ Speech-to-Text API (Production-Ready)
-- Built and unified a robust **Speech-to-Text API** using state-of-the-art ASR models (Whisper + custom finetuning).
+- Built and unified a robust **Speech-to-Text API** using state-of-the-art ASR models (Whisper + Pyanote Speaker Diarization + Speaker Embedding model for speaker verification).
 - **Deployed to Azure Container Apps** with full container orchestration and autoscaling.
 - Optimized for production: **scaled down GPU usage** with quantization + accelerated inference techniques.
 - Exposed a secure REST endpoint and integrated with internal tools for real-time voice transcription.
