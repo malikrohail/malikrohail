@@ -68,8 +68,9 @@
 - Competed in the **MIT BTT-AI AJL 2025 Hackathon**, focused on developing dermatology AI models that perform **equitably across all skin tones**.  
 - Designed and implemented a **deep learning pipeline** for classifying dermatological conditions from image data, with an emphasis on **fairness and generalization** across Fitzpatrick skin types I–VI.  
 - Techniques used:
-  - **Bias-aware training**: reweighted loss functions and group-aware sampling.
-  - **Model calibration** to improve fairness in decision thresholds.
-  - Metrics tracked included **group-wise accuracy**, **equal opportunity difference**, and **disparity impact**.
+  - Bias-aware training: Leveraged reweighted loss functions, group-aware sampling, and stratified minibatching to prevent dominance of overrepresented skin tones.
+  - Model calibration: Applied temperature scaling and threshold tuning to align prediction probabilities with true label distributions, improving fair decision-making.
+  - Test-Time Augmentation (TTA): Used horizontal/vertical flips, color jittering, and mild cropping at inference time to enhance prediction stability and robustness.
+  - Ensembling: Combined predictions from multiple architectures (e.g., EfficientNet, Swin Transformer) trained with different random seeds to reduce model variance.
 - Ranked **2nd out of 300+ teams** globally on the final leaderboard.
 
