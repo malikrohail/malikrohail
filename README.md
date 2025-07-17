@@ -61,7 +61,15 @@
 ## 📬 Let's Connect!
 - 💼 LinkedIn: [linkedin.com/in/malikrohail](...linkedin.com/in/malikrohail)
 - 📧 Email: [maliksalim@bennington.edu](mailto:...)
-
+  
 ## 🎯 Hackathon(s)
-- 2nd Place in Kaggle Hackathon on Equitable AI for Derma held by [MIT](https://www.kaggle.com/competitions/bttai-ajl-2025/leaderboard)
+
+#### 🥈 2nd Place — [Kaggle Hackathon on Equitable AI for Derma](https://www.kaggle.com/competitions/bttai-ajl-2025/leaderboard), hosted by MIT  
+- Competed in the **MIT BTT-AI AJL 2025 Hackathon**, focused on developing dermatology AI models that perform **equitably across all skin tones**.  
+- Designed and implemented a **deep learning pipeline** for classifying dermatological conditions from image data, with an emphasis on **fairness and generalization** across Fitzpatrick skin types I–VI.  
+- Techniques used:
+  - **Bias-aware training**: reweighted loss functions and group-aware sampling.
+  - **Model calibration** to improve fairness in decision thresholds.
+  - Metrics tracked included **group-wise accuracy**, **equal opportunity difference**, and **disparity impact**.
+- Ranked **2nd out of 300+ teams** globally on the final leaderboard.
 
