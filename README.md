@@ -1,76 +1,124 @@
-# Hi, I'm Malik 👋
+# Hi, I’m Malik 👋  
 
-## 🎓 Education & Goals
-- **Senior at Bennington College** studying Computer Science and Mathematics.  
-- **Focus:** Machine Learning and Software Engineering
+## 🎓 Education & Focus
+- **Senior at Bennington College** studying **Computer Science & Mathematics**
+- **Focus:** Applied Machine Learning, AI Infrastructure, and Production Software Engineering
+- Interested in **LLM systems, multimodal AI, and scalable AI products**
 
-## 🛠️ Tech Stack
+---
 
-**Languages:**  
+## 🛠️ Tech Stack (2026-Ready)
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-**Data Science & ML:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+---
+
+### Machine Learning & AI
+- PyTorch, TensorFlow, Keras  
+- Hugging Face (Transformers, Datasets, Accelerate)  
+- Classical ML (scikit-learn, XGBoost)  
+- Computer Vision (OpenCV)  
+- Speech & Audio ML (Whisper, speaker diarization, embeddings)  
+- Model optimization: quantization, mixed precision, batching  
+
+---
+
+### LLMs & AI Systems
+- Retrieval-Augmented Generation (RAG)  
+- Embeddings & semantic search  
+- Prompt engineering & evaluation  
+- Tool-calling & agent workflows  
+
+**Vector Databases**
+- Pinecone  
+- Weaviate  
+- FAISS  
+- PostgreSQL + pgvector  
+
+---
+
+### Data & MLOps
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-**Software Engineering:**  
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat&logo=websocket&logoColor=white) 
+- Experiment tracking & model versioning  
+- Offline + online evaluation  
+- Dataset curation & bias analysis  
+
+---
+
+### Backend & Software Engineering
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F61?style=flat)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F61?style=flat&logo=rest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat)
 
+- API design for ML systems  
+- Streaming & real-time inference  
+- Authentication & rate limiting  
 
-**Cloud & DevOps:**  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+---
 
-**Databases:**  
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**Big Data & Pipelines:**  
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+- Relational + NoSQL design  
+- Caching & low-latency reads  
+- Vector search with SQL + embeddings  
 
+---
+
+### Cloud, DevOps & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google_Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+- Serverless + edge deployment (Vercel)  
+- GPU-backed containers  
+- CI/CD for ML + backend  
+- Infrastructure as Code  
+
+---
 
 ## 🚀 Projects
-### 🗣️ Speech-to-Text API (Production-Ready)
-- Built and unified a robust **Speech-to-Text API** using state-of-the-art ASR models (Whisper + Pyanote Speaker Diarization + Speaker Embedding model for speaker verification).
-- **Deployed to Azure Container Apps** with full container orchestration and autoscaling.
-- Optimized for production: **scaled down GPU usage** with quantization + accelerated inference techniques.
-- Exposed a secure REST endpoint and integrated with internal tools for real-time voice transcription.
 
+### 🗣️ Speech-to-Text & Speaker Intelligence Platform
+**Production-ready voice AI system**
 
-## 📬 Let's Connect!
-- 💼 LinkedIn: [linkedin.com/in/malikrohail](...linkedin.com/in/malikrohail)
-- 📧 Email: [maliksalim@bennington.edu](mailto:...)
-  
-## 🎯 Hackathon(s)
+- Unified Whisper ASR, speaker diarization, and speaker embeddings  
+- Designed for real-time and batch inference with streaming support  
+- Deployed via containerized GPU services with autoscaling  
+- Reduced inference cost using quantization and mixed precision  
+- Exposed secure REST APIs used by internal tools and workflows  
 
-#### 🥈 2nd Place — [Kaggle Hackathon on Equitable AI for Derma](https://www.kaggle.com/competitions/bttai-ajl-2025/leaderboard), hosted by MIT  
-- Competed in the **MIT BTT-AI AJL 2025 Hackathon**, focused on developing dermatology AI models that perform **equitably across all skin tones**.  
-- Designed and implemented a **deep learning pipeline** for classifying dermatological conditions from image data, with an emphasis on **fairness and generalization** across Fitzpatrick skin types I–VI.  
-- Techniques used:
-  - Bias-aware training: Leveraged reweighted loss functions, group-aware sampling, and stratified minibatching to prevent dominance of overrepresented skin tones.
-  - Model calibration: Applied temperature scaling and threshold tuning to align prediction probabilities with true label distributions, improving fair decision-making.
-  - Test-Time Augmentation (TTA): Used horizontal/vertical flips, color jittering, and mild cropping at inference time to enhance prediction stability and robustness.
-  - Ensembling: Combined predictions from multiple architectures (e.g., EfficientNet, Swin Transformer) trained with different random seeds to reduce model variance.
-- Ranked **2nd out of 300+ teams** globally on the final leaderboard.
+---
 
+## 🎯 Hackathons
+
+### 🥈 2nd Place — MIT BTT-AI AJL 2025 (Kaggle)
+**Equitable AI for Dermatology**
+
+- Built models performing fairly across Fitzpatrick skin types I–VI  
+- Implemented group-aware sampling and reweighted losses  
+- Applied calibration, test-time augmentation, and ensembling  
+- Ranked **2nd out of 300+ teams worldwide**
+
+---
+
+## 📬 Let’s Connect
+- 💼 LinkedIn: https://linkedin.com/in/malikrohail  
+- 📧 Email: malikrohail525@gmail.com
