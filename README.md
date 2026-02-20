@@ -75,6 +75,19 @@ I build **production-grade AI systems end-to-end** — from **model training & o
 - **Containerized GPU deployment** with autoscaling  
 - **Lower cost + faster inference** via quantization & mixed precision
 
+## 🧠 Also Built: Spec-Driven Form / Document Engine (Excel → UI → PDF → XML)
+I built a **spec-driven rendering engine** that turns an **Excel-based schema** into a dynamic, validated UI and exports **PDF + MISMO/XML**.
+
+**What it does**
+- Parses an **Excel spec** (UID/xPath bindings, containers, enums/formats, cardinality, rules)
+- Generates a **Section Tree** + **Field Registry** to drive the UI
+- Uses a **Rule Engine** (required/visible/validate) enforced at runtime
+- Centralized **XMLStore** as the “source of truth” (`${instancePath}.${uid} → value`)
+- React **Context + hooks** for read/write bindings across inputs
+- **PDF renderer** mirrors the same UI state
+- **XML builder** exports MISMO nodes while honoring R/CR + repeatable sections
+
+
 ---
 
 ## 🏆 Hackathons
