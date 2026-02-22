@@ -15,9 +15,9 @@ I build **production-grade AI systems end-to-end** — from **model training & o
 ---
 
 ## 🚀 About Me
-- 🎓 **B.A. Computer Science & Mathematics — Bennington College (May 2025)**
-- 🧠 Focus: **Applied ML**, **AI Infrastructure**, **Full-Stack Engineering**
-- 🔥 Interests: **LLM systems (RAG/agents)**, **multimodal AI**, **speech/vision**, **mobile-first AI products**, **scalable platforms**
+- **B.A. Computer Science & Mathematics — Bennington College (May 2025)**
+- Focus: **Applied ML**, **AI Infrastructure**, **Full-Stack Engineering**
+- Interests: **LLM systems (RAG/agents)**, **multimodal AI**, **speech/vision**, **mobile-first AI products**, **scalable platforms**
 
 ---
 
