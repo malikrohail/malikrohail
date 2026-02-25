@@ -100,8 +100,4 @@ I built a **spec-driven rendering engine** that turns an **Excel-based schema** 
 
 <div align="center">
 
-### 📬 Let’s Connect
-<a href="https://linkedin.com/in/malikrohail">LinkedIn</a> •
-<a href="mailto:malikrohail525@gmail.com">Email</a>
-
 </div>
