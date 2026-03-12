@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I’m Malik 👋  
-### AI/ML Software Engineer • LLM Systems • Real-time Inference • Mobile + Cloud
+# Hi, I’m Malik 👋
+### AI/ML Software Engineer
 
-I build **production-grade AI systems end-to-end** — from **model training & optimization** to **inference APIs**, **mobile apps**, and **cloud deployment**.
+I build end-to-end AI systems — from model training and optimization to inference APIs, mobile apps, and cloud deployment.
 
 <p>
   <a href="https://linkedin.com/in/malikrohail"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-malikrohail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -14,90 +14,35 @@ I build **production-grade AI systems end-to-end** — from **model training & o
 
 ---
 
-## 🚀 About Me
-- **B.A. Computer Science & Mathematics — Bennington College (May 2025)**
-- Focus: **Applied ML**, **AI Infrastructure**, **Full-Stack Engineering**
-- Interests: **LLM systems (RAG/agents)**, **multimodal AI**, **speech/vision**, **mobile-first AI products**, **scalable platforms**
+## About Me
+- B.A. in Computer Science & Mathematics, Bennington College (May 2025)
+- Focused on applied ML, AI infrastructure, and full-stack engineering
+- Interested in LLM systems, multimodal AI, speech/vision, and scalable AI products
 
----
+## What I Build
+- LLM applications: RAG, agents, tool calling, embeddings, and evals
+- Real-time inference systems for speech and text
+- AI-powered mobile and web apps
+- Low-latency, cost-efficient deployment pipelines
+- Cloud and GPU-backed production infrastructure
 
-## 🧩 What I Build
-- **LLM-powered products**: RAG, agents, tool-calling, embeddings, evals  
-- **Real-time inference APIs**: streaming speech/text, low-latency pipelines  
-- **Mobile + web apps**: AI-native UX, voice/chat/search flows  
-- **Optimization**: latency/cost tuning, batching, quantization, GPU/CPU tradeoffs  
-- **Deployment**: serverless, containers, GPU-backed services, CI/CD
+## Selected Work
 
----
+### Speech-to-Text & Speaker Intelligence Platform
+- Built a production voice AI system with Whisper ASR, diarization, and speaker verification
+- Supported streaming and batch inference for web and mobile clients
 
-## 🛠️ Tech Stack
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+### Spec-Driven Form / Document Engine
+- Built a validation rule engine that converts an Excel-based schema into dynamic UI, PDF, and XML output
+- Implemented runtime validation, rule handling, and XML/PDF generation from a single source of truth
 
-**ML / AI**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+## Tech Stack
+**Languages:** Python, TypeScript, JavaScript, Rust, C++  
+**ML/AI:** PyTorch, TensorFlow, Hugging Face, OpenCV  
+**Data/LLM:** PostgreSQL, pgvector, Redis, Pinecone, Weaviate  
+**Frontend/Mobile:** React, Next.js, React Native, Expo  
+**Cloud/DevOps:** Docker, Kubernetes, AWS, GCP, Terraform, GitHub Actions
 
-**LLM Systems / Data**  
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-000000?style=flat)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
-![Weaviate](https://img.shields.io/badge/Weaviate-00A3E0?style=flat)
-
-**Frontend / Mobile**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-
-**Cloud / DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
----
-
-## ⭐ Featured Project
-### 🗣️ Speech-to-Text & Speaker Intelligence Platform
-**Production-ready voice AI system** combining:
-- **Whisper ASR** + **speaker diarization** + **speaker verification (embeddings)**
-- **Streaming + batch inference**, real-time APIs for web/mobile clients  
-- **Containerized GPU deployment** with autoscaling  
-- **Lower cost + faster inference** via quantization & mixed precision
-
-## 🧠 Also Built: Spec-Driven Form / Document Engine (Excel → UI → PDF → XML)
-I built a **spec-driven rendering engine** that turns an **Excel-based schema** into a dynamic, validated UI and exports **PDF + MISMO/XML**.
-
-**What it does**
-- Parses an **Excel spec** (UID/xPath bindings, containers, enums/formats, cardinality, rules)
-- Generates a **Section Tree** + **Field Registry** to drive the UI
-- Uses a **Rule Engine** (required/visible/validate) enforced at runtime
-- Centralized **XMLStore** as the “source of truth”
-- React **Context + hooks** for read/write bindings across inputs
-- **PDF renderer** mirrors the same UI state
-- **XML builder** exports MISMO nodes while honoring R/CR + repeatable sections
-
-
----
-
-## 🏆 Hackathons
-### 🥈 2nd Place — MIT BTT-AI AJL 2025 (Kaggle)
-- Built dermatology models fair across **Fitzpatrick I–VI**
-- Used **group-aware sampling**, **reweighted losses**, calibration + ensembling  
-- Placed **2nd / 300+ teams**
-
----
-
-<div align="center">
-
-</div>
+## Recognition
+**2nd Place — MIT BTT-AI AJL 2025 (Kaggle)**  
+Built dermatology models designed for stronger performance across Fitzpatrick skin types I–VI using group-aware sampling, reweighted losses, calibration, and ensembling.
